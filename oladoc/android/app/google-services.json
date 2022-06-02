@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561320557961",
+    "project_id": "oladoc-23bea",
+    "storage_bucket": "oladoc-23bea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561320557961:android:7d7efdeae9381583b37558",
+        "android_client_info": {
+          "package_name": "com.example.oladoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561320557961-ahe0u91e96t4itp9lppub8mb7tskgmlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oladoc",
+            "certificate_hash": "7bf1e739a6df18e361d7354f6cbfe74123b6f3c4"
+          }
+        },
+        {
+          "client_id": "561320557961-na8ndbk8c92q4mp3ejhc63ci96252ebt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA47NVfyt4AJQ1cUc-MqGR3zYv_GOJnTiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561320557961-na8ndbk8c92q4mp3ejhc63ci96252ebt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
